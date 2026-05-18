@@ -6,14 +6,14 @@ I'm so excited to have you in this course! This is introduction to C++ programmi
 ## Homework Tasks
 Please complete the follow check-list by their due dates.
 [ ] Make a folder with your First_Last name in Week1Assignment's branch.  
-[ ] Upload self-introduction to main/Week1Assignments.  [Due: June 7th, 11:59PM]
-[ ] Submit basic calculator project [Due: 11:59PM, June 10th]
+[ ] Upload self-introduction to main/Week1Assignments.  [Due: June 7th, 11:59PM]  
+[ ] Submit basic calculator project [Due: 11:59PM, June 10th]  
 
 ## Recitation Tasks
-[ ] Create LinkedIn Profile
-[ ] Create Leetcode Profile
-[ ] Create Hackerrank Profile
-[ ] Create Github Page
+[ ] Create LinkedIn Profile  
+[ ] Create Leetcode Profile  
+[ ] Create Hackerrank Profile  
+[ ] Create Github Page  
 
 
 
