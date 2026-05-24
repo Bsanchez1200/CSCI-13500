@@ -7,7 +7,7 @@ Common issues you may face and a quick guide to resolution!
 ### Where are the lecture slide links?
 Go to the appropriate week and open the readFirst.md file. It will contain a link to canva slides. 
 
-### How do I safely get copies of updates on this repo into my local repo?
+### How do I safely get copies of updates from this repo into my local repo?
 To get the latest assignment updates while keeping your own work, follow these steps:  
 
 1. Save your local changes  
